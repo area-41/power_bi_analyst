@@ -38,6 +38,10 @@ Além disso:
 - Salvar o projeto de Power BI
 
 # Projeto Criado
+Acesso ao workspace do Power BI - [Power BI](https://app.powerbi.com/singleSignOn?pbi_source=desktop&ru=https%3A%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2F28588208-4ce6-4d3b-a631-e1e992824500%3Fpbi_source%3Ddesktop%26noSignUpCheck%3D1)
+
+Vídeo demonstrativo em Power BI - [Youtube](https://youtu.be/jFkYqXKYl4U)
+
 ### Página 01
 ![image](https://github.com/user-attachments/assets/1abf2fff-f117-42bc-8158-c03df0fc0ef7)
 
