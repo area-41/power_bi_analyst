@@ -1,4 +1,4 @@
-# O Desafio
+# Desafio 1
  
 ### Explorar todos os conceitos explorados neste projeto prático. 😎
 #### Criar um repositório e inserir todos os links e arquivos necessários para o projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
