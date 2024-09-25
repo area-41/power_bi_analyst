@@ -12,8 +12,9 @@ Análise de Dados de BI aplicada com Power BI, a principal habilidade de um(a) p
 
 </br></br>
 Abaixo os links dos desafios propostos do projeto:
-### [Desafio 01](https://github.com/area-41/power_bi_analyst/blob/main/desafio_01.md) 
+- ### [Desafio 01](https://github.com/area-41/power_bi_analyst/blob/main/desafio_01.md) 
 
+- ### [Desafio 02](https://github.com/area-41/power_bi_analyst/blob/main/desafio_02.md)
 </br></br>
 
 > [!IMPORTANT]
