@@ -36,15 +36,17 @@
 
 
 # Projeto Criado
-Acesso ao workspace do Power BI - [Power BI]()
 
-Vídeo demonstrativo em Power BI - [Youtube]()
+Vídeo demonstrativo em Power BI - [Youtube](https://youtu.be/9WF2Cptwl-s)
 
 ### Página 01
-![image]()
+![image](https://github.com/user-attachments/assets/cbbcf9ab-20cb-4502-becd-7ff7969116c7)
+![image](https://github.com/user-attachments/assets/10f62c96-ee2e-4325-8401-f5ce43bffc80)
 
 ### Página 02
-![image]()
+![image](https://github.com/user-attachments/assets/955c30e1-42fb-4d30-aa60-c6b0c8b306a5)
+
+
 
 
 Obrigado 😉
