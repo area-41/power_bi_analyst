@@ -59,7 +59,9 @@ Repositório com exemplos de uso de Base de Dados no Postgres e Power BI para ma
 > 13. Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
 > 
 > 14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir.
-> 
+> ![image](https://github.com/user-attachments/assets/c3cde9d2-97fa-4733-b716-8072f3462dd3)
+> ![image](https://github.com/user-attachments/assets/00f515cc-c31d-42f8-b14b-520199f508a0)
+>
 > 
 > 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 > 
